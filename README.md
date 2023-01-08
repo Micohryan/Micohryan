@@ -55,5 +55,6 @@ Hobbies: ["Gaming", "Weightlifting", "Singing"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="Matlab" width="45" height="45"/>
 </p>
-<h2> 🚀 &nbsp;Contact Me</h2>
+<h2> 📫 &nbsp;Contact Me</h2>
 <a href="https://www.linkedin.com/in/micoh-marquez/"><img align="left" src="https://github.com/Micohryan/Micohryan/blob/main/images/linkedin.png" alt="Micoh | LinkedIn" width="21px"/></a>
+<a href="mailto:micohryan@gmail.com"><img align="left" src="https://github.com/Micohryan/Micohryan/blob/main/images/gmail.png" alt="Micoh | Gmail" width="21px"/></a>
