@@ -34,6 +34,7 @@ Education and Certificates:
   Contacts:
   { "Email": "micohryan@gmail.com",
     "Linkedin": "www.linkedin.com/in/micoh-marquez"
+    "Website": "https://micohryan.github.io/"
   }
   
 Hobbies: ["Gaming", "Weightlifting", "Singing"]
